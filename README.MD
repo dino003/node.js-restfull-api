@@ -20,8 +20,8 @@ Now you can call your app using curl (install if needed via: sudo apt-get instal
 $ curl -i localhost:49160
 
 
-without docker
-# Usage 
+
+# Usage without docker
 you need to have node installed on your machine
 # Run
 $ npm install
